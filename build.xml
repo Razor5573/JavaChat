@@ -10,10 +10,10 @@
 	<property name="lib.dir" value="lib/"/>
 
 	<!-- set jar name here -->
-	<property name="jarsclient.path"    value="${jar.dir}/SClient_karavaev.jar"/>
-	<property name="jarsserver.path"    value="${jar.dir}/SServer_karavaev.jar"/>
-	<property name="jarxmlclient.path"    value="${jar.dir}/XMLClient_karavaev.jar"/>
-	<property name="jarxmlserver.path"    value="${jar.dir}/XMLServer_karavaev.jar"/>
+	<property name="jarsclient.path"    value="${jar.dir}/SClient_nikit.jar"/>
+	<property name="jarsserver.path"    value="${jar.dir}/SServer_nikit.jar"/>
+	<property name="jarxmlclient.path"    value="${jar.dir}/XMLClient_nikit.jar"/>
+	<property name="jarxmlserver.path"    value="${jar.dir}/XMLServer_nikit.jar"/>
 	<!-- Change your main class here: -->
 	<property name="sclientmain.class"  value="SerializedVersion.ClientMain" />
 	<property name="sservermain.class"  value="SerializedVersion.ServerMain" />
